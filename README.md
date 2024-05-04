@@ -5,4 +5,27 @@
 
 In summary,A to-do list acts as a comprehensive organizational tool, consolidating all tasks and activities into a structured format that facilitates effective management and prioritization. It not only delineates tasks but also incorporates vital details such as deadlines, priorities, and additional instructions, ensuring clarity and context for each item. This clarity aids individuals in focusing their attention on pertinent tasks while allocating time and resources efficiently, thereby enhancing productivity. Moreover, to-do lists serve as a mechanism for tracking progress towards overarching goals, enabling individuals to assess their advancement, identify challenges, and adjust their strategies accordingly. The versatility of mediums for creating to-do lists allows for adaptation to diverse preferences and needs, while customization options further tailor the lists to individual workflows, maximizing their utility. Ultimately, a to-do list serves as an indispensable tool for individuals seeking to maintain organization, focus, and productivity across both personal and professional endeavors.
 
+![Screenshot (221)](https://github.com/AarthiAlagesan/To--do-list/assets/157567578/19c6d108-0019-493b-af9d-b606acb280ad)
+![Screenshot (222)](https://github.com/AarthiAlagesan/To--do-list/assets/157567578/2f572e05-df5f-4b92-a66c-83df24897519)
+![Screenshot (223)](https://github.com/AarthiAlagesan/To--do-list/assets/157567578/1adc48c9-916d-4ead-ac4d-9a71e8a24afa)
+![Screenshot (224)](https://github.com/AarthiAlagesan/To--do-list/assets/157567578/411f254a-0551-403f-9287-40e0692e611e)
+![Screenshot (226)](https://github.com/AarthiAlagesan/To--do-list/assets/157567578/addd710a-9174-48ca-aa64-c5894ea7c734)
+![Screenshot (227)](https://github.com/AarthiAlagesan/To--do-list/assets/157567578/ad7a05a8-575e-42a6-90ca-935d184345d3)
+![Screenshot (234)](https://github.com/AarthiAlagesan/To--do-list/assets/157567578/cdc78b48-214d-45d1-bccc-db793086ca77)
+![image](https://github.com/AarthiAlagesan/To--do-list/assets/157567578/aff3d96c-be82-4a71-b4eb-9911afd4d5c5)
+![Screenshot (236)](https://github.com/AarthiAlagesan/To--do-list/assets/157567578/0c2fa58e-7e00-44ff-bdce-6ce12fe0ee61)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
